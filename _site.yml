@@ -1,0 +1,17 @@
+name: "aineroonan.github.io"
+output_dir: "."
+navbar:
+  title: "Geography 176a Summer 2020"
+  left:
+    - text: "Home"
+      icon: fa-smile-o
+      href: index.html
+    - text: "GIS Work"
+      icon: fa-globe-americas
+      href: geog176A.html
+  right:
+    - icon: fa-github
+      href: https://github.com/aineroonan
+output:
+  html_document:
+    theme: flatly

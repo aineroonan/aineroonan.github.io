@@ -1,0 +1,11 @@
+---
+title: "GEOG 176a Projects"
+---
+
+In the summer before my senior year of college, I took a GIS course that allowed me to learn about R and its applications, especially in relation to GIS. Below I have accumulated links to all of my projects that exemplify the skills I have learned over these trying weeks. 
+
+[For our first lab assignment, we were instructed to build individualized websites.](file:///Users/Aine/github/aineroonan.github.io/index.html)
+
+1. I first had to understand how to properly link my code within RStudio to Github, including my repository. 
+2. I had to learn about different functions for creating a website, such as inserting hyperlinks. 
+3. I had to make the website my own with personalized details, and I am proud of what I have created. 
