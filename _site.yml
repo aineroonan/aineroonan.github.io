@@ -4,11 +4,14 @@ navbar:
   title: "Geography 176a Summer 2020"
   left:
     - text: "Home"
-      icon: fa-smile-o
+      icon: fa-home
       href: index.html
     - text: "GIS Work"
       icon: fa-globe-americas
       href: geog176A.html
+    - text: "My CV"
+      icon: fa-smile-o
+      href: cv176.html
   right:
     - icon: fa-github
       href: https://github.com/aineroonan

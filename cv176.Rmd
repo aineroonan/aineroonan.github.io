@@ -1,0 +1,35 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+# Aine Roonan
+
+## Work Experience
+### TED BAKER - Summer __2019__
+- tailoring the Ted experience to each individual customer to maximize the customers’s time and energy
+- organization and attention to detail are necessary in order to maintain a open and welcoming storefront
+
+### KID’S CLUB AT EQUINOX — Summer __2019__
+- was trusted with the care of child 3 months - 7 years old
+- maintained a clean environment
+- had to multitask to keep children of varying age groups entertained
+
+### SANTA BARBARA SAILING CENTER — Summer __2018__
+- taught children of varying ages the basics of sailing
+- organized my own weekly lesson plans
+
+## EXPERIENCE
+### UC SANTA BARBARA SAILING TEAM — **2017-2019**
+- secretary for 2018-2020 school years
+- improve small boat sailing skills
+### QUARTERMASTER (EAGLE SCOUT EQUIVALENT) — AWARDED IN **2017**
+- led many leadership projects, such as the organization of all components of a volunteer project, planning and leading a two day cruise, and executing a vessel maintenance project
+- organize and plan fundraisers, weekend trips, regattas, as well as other events
+- help crew to develop collaboration skills, leadership, and confidence on and off the water
+
+## Education
+### University of California, Santa Barbara 
+######        Political Science Major 
+######        Spatial Studies Minor 
+######        Expected Graduation in 2021
