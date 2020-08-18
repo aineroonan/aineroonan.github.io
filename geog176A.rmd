@@ -8,4 +8,13 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 1. I first had to understand how to properly link my code within RStudio to Github, including my repository. 
 2. I had to learn about different functions for creating a website, such as inserting hyperlinks. 
-3. I had to make the website my own with personalized details, and I am proud of what I have created. 
+3. I had to make the website my own with personalized details, and I am proud of what I have created.
+
+****
+
+[For our second lab assignment, we took actual data about covid cases and manipulated the data for analysis.](https://aineroonan.github.io/geog-176A-labs/lab-02.html)
+
+1. I found this week's lab particularly challenging, but I was able to effectively mutate new variables, such as cases per capita, in order to explore the data from new perspectives. 
+2. I was also able to join two data sets together in order to consolidate multiple aspects, allowing me to expand my analysis or understanding. 
+3. I also created multiple graphs, both faceted or unfaceted, that allowed me to represent information through an organized and visual medium. 
+
