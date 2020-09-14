@@ -11,7 +11,13 @@ title: "About Me"
 
 
 I am currently in my fourth year at UCSB and majoring in Political Science with a minor in Spatial Studies. My coursework  has laid a strong foundation for me to enter the professional workforce. My studies prepared me for a supportive position within an office or organization as I am incredibly organized and have a history of customer service. I have recently completed a course that has given me an incredibly strong background in GIS. I took this course as part of my minor in Spatial Studies, which I believe helps to to critically think about the way I view the world and how I can work to better interpret all information that I receive. 
+
 I have always prided myself on thinking outside of the box, as I began sailing on the SF Bay when I was only 13. I joined [SSS Viking](https://www.facebook.com/SSSViking/), an all female ship that sailed on a historical wooden whaleboat that was built in the 1930s. This program truly fosters a learning environment and spiked my already rampant curiosity. By the time I was 16, I had already organized and managed service projects and trips. By placing youths in charge of activities (with adult supervision of course), they gain an unprecedented ability to adapt to their situations as they work to solve the problems that are synonymous with everyday life on a boat. <i class="fas fa-anchor" style="color:red;"></i>
+
+
+Begining to sail also furthered my love of nature, especially all that lives within nature. I hope that I can someday use my recently acquired skillset to contribute to the fight against global warming and all other threats to the environment. I can now study the floods of different years and analyze the severity or other differences. This is just one example of one way in which I hope to use my GIS skills. 
+
 ![Pictured above is the SSS Viking setting sail in Aquatic Park, just off of the SF Bay.](./img/boat.jpeg) 
+
  ***** 
  contact: roonanaine@gmail.com 
