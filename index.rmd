@@ -20,4 +20,9 @@ Begining to sail also furthered my love of nature, especially all that lives wit
 ![Pictured above is the SSS Viking setting sail in Aquatic Park, just off of the SF Bay.](./img/boat.jpeg) 
 
  ***** 
- contact: roonanaine@gmail.com 
+ contact: 
+    email: roonanaine@gmail.com 
+    [github](https://github.com/aineroonan)
+    
+    
+    
