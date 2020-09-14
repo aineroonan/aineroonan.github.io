@@ -33,10 +33,10 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 03: Projections, Distances, and Mapping
 
+[Our third lab helped us to explore spatial data visually as I viewed cities and their distances to borders.](https://aineroonan.githib.io/geog-176A-labs/lab-03.html)
+
 ![](./img/lab-03.png)
 
-
-[Our third lab helped us to explore spatial data visually as I viewed cities and their distances to borders.](https://aineroonan.githib.io/geog-176A-labs/lab-03.html)
 1. The main focus of our lab this week was to compare the distances between different places, this is helpful as the majority of citizens within the United States live near a border. 
 2. I first had to define the boundaries of CONUS and its surrounding states, and then lay over the cities. 
 3. Next, I compared the distances between different states, Mexico, and Canada, which allowed me to test our skills through recreating similar maps. 
@@ -46,9 +46,10 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 04: Tesselations, Spatial Joins, and Point-in-Polygon
 
+[Next, I learned another way to visualize data through tesselations.](https://aineroonan.githib.io/geog-176A-labs/lab-04.html)
+
 ![](./img/lab-04.png)
 
-[Next, I learned another way to visualize data through tesselations.](https://aineroonan.githib.io/geog-176A-labs/lab-04.html)
 1. I learned how to code different tesselations with or without anchor points. 
 2. I understand the different types of tesselations and how I can interpret information through different forms. 
 3. I then applied my knowledge to real world situations where we analyzed the different reasons for dams and was able to analyze their locations. 
@@ -57,9 +58,10 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 05: Raster Analysis
 
+[My penultimate lab addressed raster stacks and how to work with them.](https://aineroonan.github.io/geog-176A-labs/lab-05.html)
+
 ![](./img/lab-05.png)
 
-[My penultimate lab addressed raster stacks and how to work with them.](https://aineroonan.github.io/geog-176A-labs/lab-05.html)
 1. This lab tested our skills with what I already knew as to identify an AOI, I first needed to know how to read in csv data, structure it spatially with sf and CRS, filter it, and then finally transform the projection. 
 2. I then used the getlandsat package to filter our data to specifically target scenes that match my date and bounding box. 
 3. Using the landsat images allows me to view the terrain with aspects not visible to the naked eye, so I have more information that can be isolated to analyze. 
@@ -68,9 +70,10 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 06: Terrain Analysis
 
+[My final lab!](https://aineroonan.github.io/geog-176A-labs/lab-06.html)
+
 ![](./img/lab-06.png)
 
-[My final lab!](https://aineroonan.github.io/geog-176A-labs/lab-06.html)
 1. I had a lot of difficulties with this lab and it's code, but I did my best to work through the issues to the best of my ability. 
 2. We first had to find the flood data and then filter it to a form that is conducive to my desired form of analysis. 
 3. This lab taught me how to analyze flood risks by running simple raster analysis that give a lot of depth.  
