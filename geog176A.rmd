@@ -33,7 +33,7 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 03: Projections, Distances, and Mapping
 
-[Our third lab helped us to explore spatial data visually as I viewed cities and their distances to borders.](https://aineroonan.github.io/geog-176A-labs/lab-03.html)
+[Our third lab helped us to explore spatial data visually as I viewed cities and their distances to borders.](https://aineroonan.github.io/geog-176A-labs/lab3.html)
 
 ![](./img/lab-03.png)
 
@@ -46,7 +46,7 @@ In the summer before my senior year of college, I took a GIS course that allowed
 
 ## Lab 04: Tesselations, Spatial Joins, and Point-in-Polygon
 
-[Next, I learned another way to visualize data through tesselations.](https://aineroonan.github.io/geog-176A-labs/lab-04.html)
+[Next, I learned another way to visualize data through tesselations.](https://aineroonan.github.io/geog-176A-labs/lab4.html)
 
 ![](./img/lab-04.png)
 
